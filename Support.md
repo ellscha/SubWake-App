@@ -12,3 +12,13 @@ Then you can leave the app open or close it and be notified. If the app is runni
 
 # If you have any questions or feature requests, you can upload them here in the issues section.
 Enjoy the app! Sleep well.
+
+
+The app currently supports the following locations: 
+  1. NYC - MTA
+  2. DC - WMATA
+  3. Philly - SEPTA
+  4. Chicago - CTA
+  5. Boston - MBTA
+  
+  Feel free to request a new location and I will be sure to get that set up in no time!
