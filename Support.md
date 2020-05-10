@@ -1,3 +1,6 @@
+# We've been working hard to do anything we can to support first responders. The SubWake Series apps have now been consolidated into one single app. Thank you for putting yourself at risk to keep us safe. You must be exhausted, if you fall asleep on the ride, we'll wake you up when you get to where you're going! Bus information is coming soon!
+
+
 # Welcome to SubWake!
 To use the app, allow location and notifications.
 
